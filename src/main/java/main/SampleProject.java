@@ -10,8 +10,8 @@ public class SampleProject {
 	}
 	public static int add(int a,int b) {
 		Scanner in=new Scanner(System.in);
-		 a=in.nextInt();
-		 b=in.nextInt();
+		// a=in.nextInt();
+		// b=in.nextInt();
 		int c = a+b;
 		return c;
 	}
